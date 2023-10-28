@@ -15,7 +15,7 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 Se XP for menor do que 1.000 = Ferro<br>
 Se XP for entre 1.001 e 2.000 = Bronze<br>
 Se XP for entre 2.001 e 5.000 = Prata<br>
-<span style="color:red">Existe um erro na range de 5001 à 6000</span><br>
+``` Existe um erro na range de 5001 à 6000```<br>
 Se XP for entre 6.001 e 7.000 = Ouro<br>
 Se XP for entre 7.001 e 8.000 = Platina<br>
 Se XP for entre 8.001 e 9.000 = Ascendente<br>
